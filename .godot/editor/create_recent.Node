@@ -1,0 +1,6 @@
+Control
+CollisionShape2D
+CollisionPolygon2D
+Area2D
+ColorRect
+Sprite2D

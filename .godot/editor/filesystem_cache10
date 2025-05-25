@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1748134180
+icon.svg::CompressedTexture2D/CompressedTexture2D::7349050106661860662::1748120913::1748120933::1::::<><><>0<>0<>82a259aecb70fec46dd71d05608f2c73<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+level_1.tscn::PackedScene::8727341280503729471::1748134383::0::1::::<><><>0<>0<><>::uid://v08e5f4768jh::::res://assets/cozy_chair_asset.png<>uid://dibktcyssth86::::res://assets/uncomfortable_emotion_orb_asset.png<>uid://cwn344f1iw3rt::::res://scripts/control.gd<>uid://cr3tgfxfcgw8j::::res://assets/comfortable_emotion_orb_asset.png<>uid://dar7wspcdb4ge::::res://assets/opened_window_asset.png
+::res://assets/::1748121619
+comfortable_emotion_orb_asset.png::CompressedTexture2D/CompressedTexture2D::6025018922349783027::1748120596::1748120999::1::::<><><>0<>0<>8eb66856d5fe89e71cc0b8269cf9d3ff<>res://.godot/imported/comfortable_emotion_orb_asset.png-cf2b4591522df5f17f1fdc82bc1de809.ctex::
+cozy_chair_asset.png::CompressedTexture2D/CompressedTexture2D::1527587548973260693::1748119799::1748120999::1::::<><><>0<>0<>536bf7997d16a66d64832a096a74ba22<>res://.godot/imported/cozy_chair_asset.png-5f019c8773082a2725ffd610c4fcfc75.ctex::
+opened_window_asset.png::CompressedTexture2D/CompressedTexture2D::7196339672820075644::1748121574::1748121619::1::::<><><>0<>0<>3d7ea0d01e80c4799aa4766b2296cf3c<>res://.godot/imported/opened_window_asset.png-599f3f7527d6aa0da276dfcf4e69c1c6.ctex::
+uncomfortable_emotion_orb_asset.png::CompressedTexture2D/CompressedTexture2D::7723478420914133653::1748120706::1748120999::1::::<><><>0<>0<>66d04cc656d32ab5cd25cf0d3a7223f5<>res://.godot/imported/uncomfortable_emotion_orb_asset.png-13a8095152f357124eba48c3c9b91727.ctex::
+::res://scripts/::1748134154
+control.gd::GDScript::6345586234140480245::1748134154::0::1::::<>Control<><>0<>0<><>::
